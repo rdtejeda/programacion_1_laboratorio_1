@@ -2,7 +2,7 @@
 
 ### Material
 
-#### Apuntes:
+#### Apuntes :
 
 En el directorio "apuntes" se podrán encontrar los siguientes archivos:
 * Diferencias_JS_y_C.pdf
